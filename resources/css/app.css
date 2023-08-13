@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Rokkit';
+  src: url('../fonts/Rokkitt-VariableFont_wght.ttf');
+}
